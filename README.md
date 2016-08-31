@@ -1,0 +1,1 @@
+# sshrc-email-alert.sh
